@@ -1,0 +1,140 @@
+html{
+    background-image:url(images/1000478242.jpg) ;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 10px;
+    color: white;
+}
+h3{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}
+em2{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}
+
+.flexone p{
+    margin-top: 20px;
+    color: white;
+}
+.flexone-heading h2{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.flexone-heading P{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.flextwo p{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.flextwo h2{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.flexthree h2{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+
+}
+.flexfour h2{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.flexfive h2{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.last h2{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.last p{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.last h3{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.flexone {
+    display: inline-block;
+    display: flex;
+
+}
+.flexone img{
+    width: 250px;
+    height: auto; 
+    padding-left: 200px;
+     padding-right: 215px;
+}
+.flextwo {
+    display: inline-block;
+    display: flex;
+
+}
+.flextwo img{
+    width: 250px;
+    height: auto; 
+    padding-left: 200px;
+    padding-right: 215px;
+}
+.flexthree {
+    display: inline-block;
+    display: flex;
+
+}
+.flexthree img{
+    width: 250px;
+    height: 250px; 
+    padding-left: 50px;
+    padding-right: 100px;
+}
+.flexfour {
+    display: inline-block;
+    display: flex;
+
+}
+.flexfour img{
+    width: 250px;
+    height: 250px; 
+    padding-left: 50px;
+    padding-right: 100px;
+}
+.flexfive {
+    display: inline-block;
+    display: flex;
+
+}
+.flexfive img{
+    width: 150px;
+    height: auto; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h2{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.ues{
+    text-align: center;
+    margin-top: 20px;
+}
